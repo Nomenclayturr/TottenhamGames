@@ -36,6 +36,7 @@ GIF created with [Kap](https://getkap.co/) for macOS
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
+For some reason, the GIF is not showing up in the README file. I'm not sure why. I've tried to use the Imgur link but it's not working. I added the gif to the project folder instead, under Kapture.gif.
 
 Describe any challenges encountered while building the app.
 I had a lot of trouble with the styling of the cards and the responsiveness of the site. I had to spend a lot of time researching and watching tutorials to get the cards to look the way I wanted them to.
