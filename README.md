@@ -29,7 +29,7 @@ Here's a walkthrough of implemented required features:
 <img src='https://i.imgur.com/myjCJuD.gif' title='Project 1' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [Kap](https://getkap.co/) for macOS
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
